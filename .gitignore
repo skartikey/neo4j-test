@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# CMake specific
+/CMakeFiles/
+/cmake-build-debug
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Build directories
+/build/
+/bin/
+/lib/
+
+# idea
+.idea
+
